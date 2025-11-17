@@ -1,0 +1,19 @@
+body {
+   background-color: rgb(245, 245, 255);
+ }
+ h2 {
+   color: rgb(255, 0, 0);
+   text-decoration: underline;
+ }
+ div {
+   margin: 40px;
+   border: 4px dashed rgb(0, 0, 0);
+ }
+div {
+   border: 5px solid rgb(0, 0, 0);
+   width: 30%;
+   display: inline-block;
+ }
+ body {
+   background: rgb(243, 225, 225);
+ }
